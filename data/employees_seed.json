@@ -46,14 +46,14 @@
         "log_entry": "Rahul completed 'Meta Data Trail' \u2014 Score: 93%, Attempt: 1"
       },
       {
-        "lab_path": "SQL Injection \u2013 Database Query Manipulation",
+        "lab_path": "SQL Injection",
         "category": "Web Exploitation",
         "score": 85,
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-02-16",
         "failed_topics": [],
-        "log_entry": "Rahul completed 'SQL Injection \u2013 Database Query Manipulation' \u2014 Score: 85%, Attempts: 2"
+        "log_entry": "Rahul completed 'SQL Injection' — Score: 85%, Attempts: 2"
       },
       {
         "lab_path": "Reconnaissance",

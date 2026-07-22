@@ -30,8 +30,8 @@
     "locked_on_platform": true
   },
   {
-    "lab_path": "Broken Authentication \u2013 Identity and Session Failures",
-    "category": "Web Exploitation",
+    "lab_path": "Components of a File Monitoring System",
+    "category": "SOC / Log Analysis",
     "difficulty": "E",
     "locked_on_platform": false
   },
@@ -54,8 +54,8 @@
     "locked_on_platform": true
   },
   {
-    "lab_path": "Insecure Direct Object Reference (IDOR) \u2013 Broken Object Level Authorization",
-    "category": "Web Exploitation",
+    "lab_path": "HTTP Deep Dive",
+    "category": "Web Infrastructure / Apache",
     "difficulty": "E",
     "locked_on_platform": false
   },
@@ -78,8 +78,8 @@
     "locked_on_platform": false
   },
   {
-    "lab_path": "SQL Injection \u2013 Database Query Manipulation",
-    "category": "Web Exploitation",
+    "lab_path": "SIEM Alert Triage | army special",
+    "category": "SOC / Log Analysis",
     "difficulty": "E",
     "locked_on_platform": false
   },
@@ -456,8 +456,8 @@
     "locked_on_platform": false
   },
   {
-    "lab_path": "Triage in Security Information and Event Management",
-    "category": "SOC / Log Analysis",
+    "lab_path": "Script-Based Malware Behaviour Analysis",
+    "category": "Malware Analysis",
     "difficulty": "E",
     "locked_on_platform": false
   },
