@@ -1,0 +1,637 @@
+[
+  {
+    "employee_id": "EMP-1001",
+    "name": "Rahul Menon",
+    "persona": "Offensive Specialist",
+    "active_streak_days": 62,
+    "labs_completed": [
+      {
+        "lab_path": "Windows Forensic Artifacts Essentials Lab",
+        "category": "Digital Forensics",
+        "score": 100,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-02-18",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Web Application Pentesting",
+        "category": "Web Exploitation",
+        "score": 90,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-02-17",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Broken Authentication 2",
+        "category": "Web Exploitation",
+        "score": 91,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-04-14",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Meta Data Trail",
+        "category": "Digital Forensics",
+        "score": 93,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-05-30",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "SQL Injection \u2013 Database Query Manipulation",
+        "category": "Web Exploitation",
+        "score": 85,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-02-16",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Reconnaissance",
+        "category": "Reconnaissance / OSINT",
+        "score": 91,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-04-05",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "API & Modern Application Security \u2013 Foundations",
+        "category": "Web Exploitation",
+        "score": 97,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-03-15",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "TCP/IP Model and Its Protocols",
+        "category": "Networking Fundamentals",
+        "score": 99,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-03-08",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "TechCorp Active Recon",
+        "category": "Reconnaissance / OSINT",
+        "score": 99,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-05-18",
+        "failed_topics": []
+      }
+    ],
+    "overall_completion_rate": 1.0
+  },
+  {
+    "employee_id": "EMP-1002",
+    "name": "Meera Iyer",
+    "persona": "Cloud/Blue Team Defender",
+    "active_streak_days": 71,
+    "labs_completed": [
+      {
+        "lab_path": "Wazuh & File Integrity Monitoring (FIM) Lab",
+        "category": "SOC / Log Analysis",
+        "score": 88,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-05-14",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "What is SOC?",
+        "category": "SOC / Log Analysis",
+        "score": 89,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-06-13",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Timeline Investigation",
+        "category": "Incident Response",
+        "score": 82,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-04-13",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
+        "category": "SOC / Log Analysis",
+        "score": 88,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-05-26",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Persistence in the Shadows",
+        "category": "Incident Response",
+        "score": 93,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-02-21",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "SIEM Fundamentals",
+        "category": "SOC / Log Analysis",
+        "score": 89,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-03-23",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "SIEM Case Management",
+        "category": "SOC / Log Analysis",
+        "score": 97,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-06-03",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "WinOptimizer: Persistence Investigation",
+        "category": "Malware Analysis",
+        "score": 93,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-03-03",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Binary Lore The Forensic Stringer",
+        "category": "Malware Analysis",
+        "score": 88,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-03-18",
+        "failed_topics": []
+      }
+    ],
+    "overall_completion_rate": 1.0
+  },
+  {
+    "employee_id": "EMP-1003",
+    "name": "Kevin Fernandes",
+    "persona": "Generalist Security Analyst",
+    "active_streak_days": 28,
+    "labs_completed": [
+      {
+        "lab_path": "Introduction to Linux, GNU and Interfaces",
+        "category": "Systems Fundamentals (Linux/Windows)",
+        "score": 75,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-02-28",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "The Prefetch Hunt",
+        "category": "Digital Forensics",
+        "score": 36,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-02-11",
+        "failed_topics": [
+          "memory artifact correlation (Volatility)"
+        ]
+      },
+      {
+        "lab_path": "Broken Authentication 2",
+        "category": "Web Exploitation",
+        "score": 51,
+        "passed": false,
+        "attempts": 3,
+        "completion_date": "2026-05-25",
+        "failed_topics": [
+          "SQL injection payload crafting",
+          "request chaining/logic bypass"
+        ]
+      },
+      {
+        "lab_path": "Broken Authentication",
+        "category": "Web Exploitation",
+        "score": 81,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-04-12",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Insecure Direct Object Reference (IDOR)",
+        "category": "Web Exploitation",
+        "score": 82,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-06-10",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Server Side Template Injection",
+        "category": "Web Exploitation",
+        "score": 57,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-03-08",
+        "failed_topics": [
+          "session token analysis",
+          "template injection syntax"
+        ]
+      },
+      {
+        "lab_path": "Data Carving and File Recovery",
+        "category": "Digital Forensics",
+        "score": 77,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-04-22",
+        "failed_topics": []
+      }
+    ],
+    "overall_completion_rate": 0.57
+  },
+  {
+    "employee_id": "EMP-1004",
+    "name": "Sana Kapoor",
+    "persona": "Junior Penetration Tester",
+    "active_streak_days": 19,
+    "labs_completed": [
+      {
+        "lab_path": "Broken Authentication 2",
+        "category": "Web Exploitation",
+        "score": 70,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-03-06",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Server Side Template Injection",
+        "category": "Web Exploitation",
+        "score": 56,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-06-18",
+        "failed_topics": [
+          "session token analysis"
+        ]
+      },
+      {
+        "lab_path": "Phantom Ledger",
+        "category": "Social Engineering",
+        "score": 53,
+        "passed": false,
+        "attempts": 3,
+        "completion_date": "2026-04-13",
+        "failed_topics": [
+          "correlating phishing indicators across artifacts",
+          "header authentication analysis (SPF/DKIM/DMARC)"
+        ]
+      },
+      {
+        "lab_path": "Command Injection",
+        "category": "Web Exploitation",
+        "score": 87,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-05-20",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Privilege Escalation",
+        "category": "Pentesting Methodology / Adversary Mindset",
+        "score": 43,
+        "passed": false,
+        "attempts": 1,
+        "completion_date": "2026-02-22",
+        "failed_topics": [
+          "scope definition",
+          "attack surface reasoning"
+        ]
+      },
+      {
+        "lab_path": "TechCorp Active Recon",
+        "category": "Reconnaissance / OSINT",
+        "score": 72,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-04-09",
+        "failed_topics": []
+      }
+    ],
+    "overall_completion_rate": 0.5
+  },
+  {
+    "employee_id": "EMP-1005",
+    "name": "Arjun Nair",
+    "persona": "Incident Responder",
+    "active_streak_days": 33,
+    "labs_completed": [
+      {
+        "lab_path": "The Vanishing Engineer",
+        "category": "Digital Forensics",
+        "score": 57,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-02-14",
+        "failed_topics": [
+          "memory artifact correlation (Volatility)"
+        ]
+      },
+      {
+        "lab_path": "Meta Data Trail",
+        "category": "Digital Forensics",
+        "score": 35,
+        "passed": false,
+        "attempts": 1,
+        "completion_date": "2026-03-14",
+        "failed_topics": [
+          "memory artifact correlation (Volatility)",
+          "registry hive parsing"
+        ]
+      },
+      {
+        "lab_path": "Memory Hunter",
+        "category": "Digital Forensics",
+        "score": 86,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-06-10",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Silent Masquerade",
+        "category": "Digital Forensics",
+        "score": 74,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-04-17",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "The Prefetch Hunt",
+        "category": "Digital Forensics",
+        "score": 70,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-04-10",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
+        "category": "SOC / Log Analysis",
+        "score": 73,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-04-26",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "ShadowMiner",
+        "category": "Incident Response",
+        "score": 52,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-04-21",
+        "failed_topics": [
+          "root cause isolation"
+        ]
+      }
+    ],
+    "overall_completion_rate": 0.57
+  },
+  {
+    "employee_id": "EMP-1006",
+    "name": "Priya Suresh",
+    "persona": "SOC Trainee",
+    "active_streak_days": 15,
+    "labs_completed": [
+      {
+        "lab_path": "SIEM Alert Triage",
+        "category": "SOC / Log Analysis",
+        "score": 66,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-05-08",
+        "failed_topics": [
+          "detection rule tuning",
+          "log field interpretation"
+        ]
+      },
+      {
+        "lab_path": "SIEM Detection Rules Basics",
+        "category": "SOC / Log Analysis",
+        "score": 52,
+        "passed": false,
+        "attempts": 1,
+        "completion_date": "2026-06-06",
+        "failed_topics": [
+          "log field interpretation",
+          "alert severity triage"
+        ]
+      },
+      {
+        "lab_path": "Wazuh & File Integrity Monitoring (FIM) Lab",
+        "category": "SOC / Log Analysis",
+        "score": 79,
+        "passed": true,
+        "attempts": 1,
+        "completion_date": "2026-06-09",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "What is SOC?",
+        "category": "SOC / Log Analysis",
+        "score": 37,
+        "passed": false,
+        "attempts": 1,
+        "completion_date": "2026-02-20",
+        "failed_topics": [
+          "case documentation",
+          "detection rule tuning"
+        ]
+      },
+      {
+        "lab_path": "Linux Distributions and Comparison",
+        "category": "Systems Fundamentals (Linux/Windows)",
+        "score": 42,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-06-07",
+        "failed_topics": [
+          "NTFS permission inheritance"
+        ]
+      },
+      {
+        "lab_path": "HTTP Basics Deep Dive",
+        "category": "Web Infrastructure / Apache",
+        "score": 37,
+        "passed": false,
+        "attempts": 3,
+        "completion_date": "2026-07-08",
+        "failed_topics": [
+          "HTTP status code interpretation",
+          "log format field parsing"
+        ]
+      }
+    ],
+    "overall_completion_rate": 0.33
+  },
+  {
+    "employee_id": "EMP-1007",
+    "name": "Ishaan Thomas",
+    "persona": "Malware Analysis Novice",
+    "active_streak_days": 6,
+    "labs_completed": [
+      {
+        "lab_path": "Deceptive Delivery",
+        "category": "Malware Analysis",
+        "score": 66,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-07-05",
+        "failed_topics": [
+          "string/IOC extraction"
+        ]
+      },
+      {
+        "lab_path": "Anti-Analysis Lab",
+        "category": "Malware Analysis",
+        "score": 42,
+        "passed": false,
+        "attempts": 3,
+        "completion_date": "2026-04-01",
+        "failed_topics": [
+          "anti-debugging bypass"
+        ]
+      },
+      {
+        "lab_path": "Subdomain Enumeration",
+        "category": "Reconnaissance / OSINT",
+        "score": 41,
+        "passed": false,
+        "attempts": 4,
+        "completion_date": "2026-02-01",
+        "failed_topics": [
+          "subdomain enumeration wordlist tuning"
+        ]
+      },
+      {
+        "lab_path": "Sandbox Analysis",
+        "category": "Malware Analysis",
+        "score": 38,
+        "passed": false,
+        "attempts": 4,
+        "completion_date": "2026-05-18",
+        "failed_topics": [
+          "string/IOC extraction"
+        ]
+      }
+    ],
+    "overall_completion_rate": 0.25
+  },
+  {
+    "employee_id": "EMP-1008",
+    "name": "Aditi Bhatt",
+    "persona": "New Hire (Unengaged)",
+    "active_streak_days": 0,
+    "labs_completed": [
+      {
+        "lab_path": "Windows Internals",
+        "category": "Systems Fundamentals (Linux/Windows)",
+        "score": 27,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-07-13",
+        "failed_topics": [
+          "hard vs symbolic links"
+        ]
+      },
+      {
+        "lab_path": "Linux Permissions",
+        "category": "Systems Fundamentals (Linux/Windows)",
+        "score": 25,
+        "passed": false,
+        "attempts": 3,
+        "completion_date": "2026-03-21",
+        "failed_topics": [
+          "hard vs symbolic links"
+        ]
+      },
+      {
+        "lab_path": "The Citadel",
+        "category": "Systems Fundamentals (Linux/Windows)",
+        "score": 37,
+        "passed": false,
+        "attempts": 2,
+        "completion_date": "2026-06-21",
+        "failed_topics": [
+          "NTFS permission inheritance",
+          "hard vs symbolic links"
+        ]
+      }
+    ],
+    "overall_completion_rate": 0.0
+  },
+  {
+    "employee_id": "EMP-1009",
+    "name": "Dev Rao",
+    "persona": "Novice Analyst",
+    "active_streak_days": 3,
+    "labs_completed": [
+      {
+        "lab_path": "SIEM Alert Triage",
+        "category": "SOC / Log Analysis",
+        "score": 55,
+        "passed": true,
+        "attempts": 3,
+        "completion_date": "2026-04-03",
+        "failed_topics": [
+          "log field interpretation",
+          "detection rule tuning"
+        ]
+      },
+      {
+        "lab_path": "Web Architecture",
+        "category": "Web Exploitation",
+        "score": 75,
+        "passed": true,
+        "attempts": 5,
+        "completion_date": "2026-03-24",
+        "failed_topics": []
+      },
+      {
+        "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
+        "category": "SOC / Log Analysis",
+        "score": 36,
+        "passed": false,
+        "attempts": 4,
+        "completion_date": "2026-03-26",
+        "failed_topics": [
+          "false positive identification"
+        ]
+      },
+      {
+        "lab_path": "SIEM Fundamentals",
+        "category": "SOC / Log Analysis",
+        "score": 60,
+        "passed": true,
+        "attempts": 2,
+        "completion_date": "2026-06-28",
+        "failed_topics": [
+          "detection rule tuning"
+        ]
+      }
+    ],
+    "overall_completion_rate": 0.75
+  }
+]

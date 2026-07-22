@@ -1,0 +1,590 @@
+[
+  {
+    "lab_path": "Phantom Ledger",
+    "category": "Social Engineering",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Shadow Sender",
+    "category": "Social Engineering",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "SilentDrop",
+    "category": "Social Engineering",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "API & Modern Application Security \u2013 Foundations",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Broken Authentication",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Broken Authentication \u2013 Identity and Session Failures",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Broken Authentication 2",
+    "category": "Web Exploitation",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Command Injection",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Insecure Direct Object Reference (IDOR)",
+    "category": "Web Exploitation",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Insecure Direct Object Reference (IDOR) \u2013 Broken Object Level Authorization",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Server Side Template Injection",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Session Fixation",
+    "category": "Web Exploitation",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "SQL Injection",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "SQL Injection \u2013 Database Query Manipulation",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Web Application Pentesting",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Web Architecture",
+    "category": "Web Exploitation",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Race Condition Bypass",
+    "category": "Web Exploitation",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Github Recon",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Google Dorking",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Reconnaissance",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Subdomain Enumeration",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "TechCorp Active Recon",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Forgotten Rock",
+    "category": "Reconnaissance / OSINT",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "CIDR & Subnetting Basics",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Fundamentals of Internet Protocol",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Introduction to Computer Networks",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Introduction to the OSI Model",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "NAT Concepts",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "TCP/IP Model and Its Protocols",
+    "category": "Networking Fundamentals",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Pentesting basics",
+    "category": "Pentesting Methodology / Adversary Mindset",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Foundations & Attacker Mindset",
+    "category": "Pentesting Methodology / Adversary Mindset",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Introduction to Threat Modelling",
+    "category": "Pentesting Methodology / Adversary Mindset",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Privilege Escalation",
+    "category": "Pentesting Methodology / Adversary Mindset",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Advanced Static Malware Analysis Using PEStudio",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Anti-Analysis Lab",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "API Monitoring",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Behavior Monitoring",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Binary Lore The Forensic Stringer",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Deceptive Delivery",
+    "category": "Malware Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "File Structure Lab",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Introduction to Static Malware Analysis",
+    "category": "Malware Analysis",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Obfuscation Lab",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Process Injection Analysis",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "QuickClean Runtime Investigation",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Sandbox Analysis",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Static Analysis Basics",
+    "category": "Malware Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Static Malware Analysis Using Basic Tools",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Specter-Pack",
+    "category": "Malware Analysis",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The ViperLeague Mystery",
+    "category": "Malware Analysis",
+    "difficulty": "M",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "WinOptimizer: Persistence Investigation",
+    "category": "Malware Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Data Carving and File Recovery",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Memory Hunter",
+    "category": "Digital Forensics",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Meta Data Trail",
+    "category": "Digital Forensics",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Midnight Notes",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Missing Examination File",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Silent Masquerade",
+    "category": "Digital Forensics",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Curious Case of the Disgruntled Intern",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Prefetch Hunt",
+    "category": "Digital Forensics",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Suspicious PDF Reader",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Vanishing Engineer",
+    "category": "Digital Forensics",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Windows Forensic Artifacts Essentials Lab",
+    "category": "Digital Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Echo in Memory: The Outbound Anomaly",
+    "category": "Network Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Exfiltration Story",
+    "category": "Network Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Fragmented Intrusion",
+    "category": "Network Forensics",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "The Midnight VPN Heist",
+    "category": "Network Forensics",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Host Based Incident Response",
+    "category": "Incident Response",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Persistence in the Shadows",
+    "category": "Incident Response",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Silent Beacon: The Process Within",
+    "category": "Incident Response",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Timeline Investigation",
+    "category": "Incident Response",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "ShadowMiner",
+    "category": "Incident Response",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Linux Live Analysis",
+    "category": "Incident Response",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "SIEM Alert Triage",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "SIEM Case Management",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "SIEM Detection Rules Basics",
+    "category": "SOC / Log Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "SIEM Fundamentals",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Triage in Security Information and Event Management",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Wazuh & File Integrity Monitoring (FIM) Lab",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "What is SOC?",
+    "category": "SOC / Log Analysis",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Log Pivoting",
+    "category": "SOC / Log Analysis",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Notepad++ Compromise Investigation",
+    "category": "SOC / Log Analysis",
+    "difficulty": "H",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Apache Access Combined Log Analysis",
+    "category": "Web Infrastructure / Apache",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "What is Apache",
+    "category": "Web Infrastructure / Apache",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "HTTP Basics Deep Dive",
+    "category": "Web Infrastructure / Apache",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Echoes of the Secret",
+    "category": "Steganography",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Hidden in Plain Sight",
+    "category": "Steganography",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Encoded Whispers",
+    "category": "Cryptography / Encoding",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Live Container Analysis",
+    "category": "Container Analysis",
+    "difficulty": "M",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Files & Directories Management",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Input / Output Handling",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Introduction to Linux, GNU and Interfaces",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Kali Linux Setup Walkthrough",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "I",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Links in Linux",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Linux Distributions and Comparison",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Linux File Systems Basics",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "Linux Permissions",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": false
+  },
+  {
+    "lab_path": "The Citadel",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "E",
+    "locked_on_platform": true
+  },
+  {
+    "lab_path": "Windows Internals",
+    "category": "Systems Fundamentals (Linux/Windows)",
+    "difficulty": "M",
+    "locked_on_platform": false
+  }
+]
