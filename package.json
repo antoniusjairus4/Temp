@@ -1,10 +1,12 @@
 {
   "name": "temp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/antoniusjairus4/Temp/issues"
   },
-  "homepage": "https://github.com/antoniusjairus4/Temp#readme"
+  "homepage": "https://github.com/antoniusjairus4/Temp#readme",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  }
 }
