@@ -1,0 +1,4 @@
+# Ignore compiled bundle assets in Boom directory
+*.js
+*.css
+*.map
