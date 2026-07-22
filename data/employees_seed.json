@@ -12,7 +12,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-02-18",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'Windows Forensic Artifacts Essentials Lab' \u2014 Score: 100%, Attempts: 2"
       },
       {
         "lab_path": "Web Application Pentesting",
@@ -21,7 +22,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-02-17",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'Web Application Pentesting' \u2014 Score: 90%, Attempts: 2"
       },
       {
         "lab_path": "Broken Authentication 2",
@@ -30,7 +32,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-04-14",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'Broken Authentication 2' \u2014 Score: 91%, Attempts: 2"
       },
       {
         "lab_path": "Meta Data Trail",
@@ -39,7 +42,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-05-30",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'Meta Data Trail' \u2014 Score: 93%, Attempt: 1"
       },
       {
         "lab_path": "SQL Injection \u2013 Database Query Manipulation",
@@ -48,7 +52,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-02-16",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'SQL Injection \u2013 Database Query Manipulation' \u2014 Score: 85%, Attempts: 2"
       },
       {
         "lab_path": "Reconnaissance",
@@ -57,7 +62,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-04-05",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'Reconnaissance' \u2014 Score: 91%, Attempt: 1"
       },
       {
         "lab_path": "API & Modern Application Security \u2013 Foundations",
@@ -66,7 +72,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-03-15",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'API & Modern Application Security \u2013 Foundations' \u2014 Score: 97%, Attempt: 1"
       },
       {
         "lab_path": "TCP/IP Model and Its Protocols",
@@ -75,7 +82,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-03-08",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'TCP/IP Model and Its Protocols' \u2014 Score: 99%, Attempt: 1"
       },
       {
         "lab_path": "TechCorp Active Recon",
@@ -84,7 +92,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-05-18",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Rahul completed 'TechCorp Active Recon' \u2014 Score: 99%, Attempt: 1"
       }
     ],
     "overall_completion_rate": 1.0
@@ -102,7 +111,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-05-14",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'Wazuh & File Integrity Monitoring (FIM) Lab' \u2014 Score: 88%, Attempt: 1"
       },
       {
         "lab_path": "What is SOC?",
@@ -111,7 +121,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-06-13",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'What is SOC?' \u2014 Score: 89%, Attempt: 1"
       },
       {
         "lab_path": "Timeline Investigation",
@@ -120,7 +131,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-04-13",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'Timeline Investigation' \u2014 Score: 82%, Attempt: 1"
       },
       {
         "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
@@ -129,7 +141,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-05-26",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'Different Types of Logs in SIEM and Their Log Formats' \u2014 Score: 88%, Attempt: 1"
       },
       {
         "lab_path": "Persistence in the Shadows",
@@ -138,7 +151,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-02-21",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'Persistence in the Shadows' \u2014 Score: 93%, Attempt: 1"
       },
       {
         "lab_path": "SIEM Fundamentals",
@@ -147,7 +161,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-03-23",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'SIEM Fundamentals' \u2014 Score: 89%, Attempts: 2"
       },
       {
         "lab_path": "SIEM Case Management",
@@ -156,7 +171,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-06-03",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'SIEM Case Management' \u2014 Score: 97%, Attempt: 1"
       },
       {
         "lab_path": "WinOptimizer: Persistence Investigation",
@@ -165,7 +181,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-03-03",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'WinOptimizer: Persistence Investigation' \u2014 Score: 93%, Attempt: 1"
       },
       {
         "lab_path": "Binary Lore The Forensic Stringer",
@@ -174,7 +191,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-03-18",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Meera completed 'Binary Lore The Forensic Stringer' \u2014 Score: 88%, Attempts: 2"
       }
     ],
     "overall_completion_rate": 1.0
@@ -192,7 +210,8 @@
         "passed": true,
         "attempts": 3,
         "completion_date": "2026-02-28",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Kevin completed 'Introduction to Linux, GNU and Interfaces' \u2014 Score: 75%, Attempts: 3"
       },
       {
         "lab_path": "The Prefetch Hunt",
@@ -203,7 +222,8 @@
         "completion_date": "2026-02-11",
         "failed_topics": [
           "memory artifact correlation (Volatility)"
-        ]
+        ],
+        "log_entry": "Kevin attempted 'The Prefetch Hunt' \u2014 Score: 36%, Attempts: 2, did not pass, flagged weak on memory artifact correlation (Volatility)"
       },
       {
         "lab_path": "Broken Authentication 2",
@@ -215,7 +235,8 @@
         "failed_topics": [
           "SQL injection payload crafting",
           "request chaining/logic bypass"
-        ]
+        ],
+        "log_entry": "Kevin attempted 'Broken Authentication 2' \u2014 Score: 51%, Attempts: 3, did not pass, flagged weak on SQL injection payload crafting and request chaining/logic bypass"
       },
       {
         "lab_path": "Broken Authentication",
@@ -224,7 +245,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-04-12",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Kevin completed 'Broken Authentication' \u2014 Score: 81%, Attempts: 2"
       },
       {
         "lab_path": "Insecure Direct Object Reference (IDOR)",
@@ -233,7 +255,8 @@
         "passed": true,
         "attempts": 3,
         "completion_date": "2026-06-10",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Kevin completed 'Insecure Direct Object Reference (IDOR)' \u2014 Score: 82%, Attempts: 3"
       },
       {
         "lab_path": "Server Side Template Injection",
@@ -245,7 +268,8 @@
         "failed_topics": [
           "session token analysis",
           "template injection syntax"
-        ]
+        ],
+        "log_entry": "Kevin attempted 'Server Side Template Injection' \u2014 Score: 57%, Attempts: 2, did not pass, flagged weak on session token analysis and template injection syntax"
       },
       {
         "lab_path": "Data Carving and File Recovery",
@@ -254,7 +278,8 @@
         "passed": true,
         "attempts": 3,
         "completion_date": "2026-04-22",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Kevin completed 'Data Carving and File Recovery' \u2014 Score: 77%, Attempts: 3"
       }
     ],
     "overall_completion_rate": 0.57
@@ -272,7 +297,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-03-06",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Sana completed 'Broken Authentication 2' \u2014 Score: 70%, Attempts: 2"
       },
       {
         "lab_path": "Server Side Template Injection",
@@ -283,7 +309,8 @@
         "completion_date": "2026-06-18",
         "failed_topics": [
           "session token analysis"
-        ]
+        ],
+        "log_entry": "Sana attempted 'Server Side Template Injection' \u2014 Score: 56%, Attempts: 2, did not pass, flagged weak on session token analysis"
       },
       {
         "lab_path": "Phantom Ledger",
@@ -295,7 +322,8 @@
         "failed_topics": [
           "correlating phishing indicators across artifacts",
           "header authentication analysis (SPF/DKIM/DMARC)"
-        ]
+        ],
+        "log_entry": "Sana attempted 'Phantom Ledger' \u2014 Score: 53%, Attempts: 3, did not pass, flagged weak on correlating phishing indicators across artifacts and header authentication analysis (SPF/DKIM/DMARC)"
       },
       {
         "lab_path": "Command Injection",
@@ -304,7 +332,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-05-20",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Sana completed 'Command Injection' \u2014 Score: 87%, Attempts: 2"
       },
       {
         "lab_path": "Privilege Escalation",
@@ -316,7 +345,8 @@
         "failed_topics": [
           "scope definition",
           "attack surface reasoning"
-        ]
+        ],
+        "log_entry": "Sana attempted 'Privilege Escalation' \u2014 Score: 43%, Attempt: 1, did not pass, flagged weak on scope definition and attack surface reasoning"
       },
       {
         "lab_path": "TechCorp Active Recon",
@@ -325,7 +355,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-04-09",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Sana completed 'TechCorp Active Recon' \u2014 Score: 72%, Attempt: 1"
       }
     ],
     "overall_completion_rate": 0.5
@@ -345,7 +376,8 @@
         "completion_date": "2026-02-14",
         "failed_topics": [
           "memory artifact correlation (Volatility)"
-        ]
+        ],
+        "log_entry": "Arjun attempted 'The Vanishing Engineer' \u2014 Score: 57%, Attempts: 2, did not pass, flagged weak on memory artifact correlation (Volatility)"
       },
       {
         "lab_path": "Meta Data Trail",
@@ -357,7 +389,8 @@
         "failed_topics": [
           "memory artifact correlation (Volatility)",
           "registry hive parsing"
-        ]
+        ],
+        "log_entry": "Arjun attempted 'Meta Data Trail' \u2014 Score: 35%, Attempt: 1, did not pass, flagged weak on memory artifact correlation (Volatility) and registry hive parsing"
       },
       {
         "lab_path": "Memory Hunter",
@@ -366,7 +399,8 @@
         "passed": true,
         "attempts": 3,
         "completion_date": "2026-06-10",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Arjun completed 'Memory Hunter' \u2014 Score: 86%, Attempts: 3"
       },
       {
         "lab_path": "Silent Masquerade",
@@ -375,7 +409,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-04-17",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Arjun completed 'Silent Masquerade' \u2014 Score: 74%, Attempts: 2"
       },
       {
         "lab_path": "The Prefetch Hunt",
@@ -384,7 +419,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-04-10",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Arjun completed 'The Prefetch Hunt' \u2014 Score: 70%, Attempts: 2"
       },
       {
         "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
@@ -393,7 +429,8 @@
         "passed": true,
         "attempts": 2,
         "completion_date": "2026-04-26",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Arjun completed 'Different Types of Logs in SIEM and Their Log Formats' \u2014 Score: 73%, Attempts: 2"
       },
       {
         "lab_path": "ShadowMiner",
@@ -404,7 +441,8 @@
         "completion_date": "2026-04-21",
         "failed_topics": [
           "root cause isolation"
-        ]
+        ],
+        "log_entry": "Arjun attempted 'ShadowMiner' \u2014 Score: 52%, Attempts: 2, did not pass, flagged weak on root cause isolation"
       }
     ],
     "overall_completion_rate": 0.57
@@ -425,7 +463,8 @@
         "failed_topics": [
           "detection rule tuning",
           "log field interpretation"
-        ]
+        ],
+        "log_entry": "Priya completed 'SIEM Alert Triage' \u2014 Score: 66%, Attempts: 2, flagged weak on detection rule tuning and log field interpretation"
       },
       {
         "lab_path": "SIEM Detection Rules Basics",
@@ -437,7 +476,8 @@
         "failed_topics": [
           "log field interpretation",
           "alert severity triage"
-        ]
+        ],
+        "log_entry": "Priya attempted 'SIEM Detection Rules Basics' \u2014 Score: 52%, Attempt: 1, did not pass, flagged weak on log field interpretation and alert severity triage"
       },
       {
         "lab_path": "Wazuh & File Integrity Monitoring (FIM) Lab",
@@ -446,7 +486,8 @@
         "passed": true,
         "attempts": 1,
         "completion_date": "2026-06-09",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Priya completed 'Wazuh & File Integrity Monitoring (FIM) Lab' \u2014 Score: 79%, Attempt: 1"
       },
       {
         "lab_path": "What is SOC?",
@@ -458,7 +499,8 @@
         "failed_topics": [
           "case documentation",
           "detection rule tuning"
-        ]
+        ],
+        "log_entry": "Priya attempted 'What is SOC?' \u2014 Score: 37%, Attempt: 1, did not pass, flagged weak on case documentation and detection rule tuning"
       },
       {
         "lab_path": "Linux Distributions and Comparison",
@@ -469,7 +511,8 @@
         "completion_date": "2026-06-07",
         "failed_topics": [
           "NTFS permission inheritance"
-        ]
+        ],
+        "log_entry": "Priya attempted 'Linux Distributions and Comparison' \u2014 Score: 42%, Attempts: 2, did not pass, flagged weak on NTFS permission inheritance"
       },
       {
         "lab_path": "HTTP Basics Deep Dive",
@@ -481,7 +524,8 @@
         "failed_topics": [
           "HTTP status code interpretation",
           "log format field parsing"
-        ]
+        ],
+        "log_entry": "Priya attempted 'HTTP Basics Deep Dive' \u2014 Score: 37%, Attempts: 3, did not pass, flagged weak on HTTP status code interpretation and log format field parsing"
       }
     ],
     "overall_completion_rate": 0.33
@@ -501,7 +545,8 @@
         "completion_date": "2026-07-05",
         "failed_topics": [
           "string/IOC extraction"
-        ]
+        ],
+        "log_entry": "Ishaan completed 'Deceptive Delivery' \u2014 Score: 66%, Attempts: 3, flagged weak on string/IOC extraction"
       },
       {
         "lab_path": "Anti-Analysis Lab",
@@ -512,7 +557,8 @@
         "completion_date": "2026-04-01",
         "failed_topics": [
           "anti-debugging bypass"
-        ]
+        ],
+        "log_entry": "Ishaan attempted 'Anti-Analysis Lab' \u2014 Score: 42%, Attempts: 3, did not pass, flagged weak on anti-debugging bypass"
       },
       {
         "lab_path": "Subdomain Enumeration",
@@ -523,7 +569,8 @@
         "completion_date": "2026-02-01",
         "failed_topics": [
           "subdomain enumeration wordlist tuning"
-        ]
+        ],
+        "log_entry": "Ishaan attempted 'Subdomain Enumeration' \u2014 Score: 41%, Attempts: 4, did not pass, flagged weak on subdomain enumeration wordlist tuning"
       },
       {
         "lab_path": "Sandbox Analysis",
@@ -534,7 +581,8 @@
         "completion_date": "2026-05-18",
         "failed_topics": [
           "string/IOC extraction"
-        ]
+        ],
+        "log_entry": "Ishaan attempted 'Sandbox Analysis' \u2014 Score: 38%, Attempts: 4, did not pass, flagged weak on string/IOC extraction"
       }
     ],
     "overall_completion_rate": 0.25
@@ -554,7 +602,8 @@
         "completion_date": "2026-07-13",
         "failed_topics": [
           "hard vs symbolic links"
-        ]
+        ],
+        "log_entry": "Aditi attempted 'Windows Internals' \u2014 Score: 27%, Attempts: 2, did not pass, flagged weak on hard vs symbolic links"
       },
       {
         "lab_path": "Linux Permissions",
@@ -565,7 +614,8 @@
         "completion_date": "2026-03-21",
         "failed_topics": [
           "hard vs symbolic links"
-        ]
+        ],
+        "log_entry": "Aditi attempted 'Linux Permissions' \u2014 Score: 25%, Attempts: 3, did not pass, flagged weak on hard vs symbolic links"
       },
       {
         "lab_path": "The Citadel",
@@ -577,7 +627,8 @@
         "failed_topics": [
           "NTFS permission inheritance",
           "hard vs symbolic links"
-        ]
+        ],
+        "log_entry": "Aditi attempted 'The Citadel' \u2014 Score: 37%, Attempts: 2, did not pass, flagged weak on NTFS permission inheritance and hard vs symbolic links"
       }
     ],
     "overall_completion_rate": 0.0
@@ -598,7 +649,8 @@
         "failed_topics": [
           "log field interpretation",
           "detection rule tuning"
-        ]
+        ],
+        "log_entry": "Dev completed 'SIEM Alert Triage' \u2014 Score: 55%, Attempts: 3, flagged weak on log field interpretation and detection rule tuning"
       },
       {
         "lab_path": "Web Architecture",
@@ -607,7 +659,8 @@
         "passed": true,
         "attempts": 5,
         "completion_date": "2026-03-24",
-        "failed_topics": []
+        "failed_topics": [],
+        "log_entry": "Dev completed 'Web Architecture' \u2014 Score: 75%, Attempts: 5"
       },
       {
         "lab_path": "Different Types of Logs in SIEM and Their Log Formats",
@@ -618,7 +671,8 @@
         "completion_date": "2026-03-26",
         "failed_topics": [
           "false positive identification"
-        ]
+        ],
+        "log_entry": "Dev attempted 'Different Types of Logs in SIEM and Their Log Formats' \u2014 Score: 36%, Attempts: 4, did not pass, flagged weak on false positive identification"
       },
       {
         "lab_path": "SIEM Fundamentals",
@@ -629,7 +683,8 @@
         "completion_date": "2026-06-28",
         "failed_topics": [
           "detection rule tuning"
-        ]
+        ],
+        "log_entry": "Dev completed 'SIEM Fundamentals' \u2014 Score: 60%, Attempts: 2, flagged weak on detection rule tuning"
       }
     ],
     "overall_completion_rate": 0.75
